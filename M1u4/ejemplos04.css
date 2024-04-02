@@ -1,0 +1,26 @@
+h1 {
+    background-color: blueviolet;
+    color: aqua;
+    text-align: center;
+}
+p {
+    color: aquamarine;
+    background-color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+.destacado {
+    color: red;
+    font-size: 22px;
+}
+#caja {
+    background-color: aquamarine;
+    width: 300px;
+    height: 500px;
+    padding: 20px; /*el borde hacia adentro*/
+    border: 10px solid black;
+    box-sizing: border-box;  /*esta propiedad va a controlar la caja*/
+    border-right: 5px dashed red;
+    margin-left: 100px;
+    
+}

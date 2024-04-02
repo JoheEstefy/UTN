@@ -1,0 +1,11 @@
+h1 {
+    background-color: blueviolet;
+    color: aqua;
+    text-align: center;
+}
+p {
+    color: aquamarine;
+    background-color: black;
+    font-weight: bold;
+    font-style: italic;
+}
