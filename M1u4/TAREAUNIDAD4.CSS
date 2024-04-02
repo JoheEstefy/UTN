@@ -1,0 +1,16 @@
+.titulo {
+    background-color: aquamarine;
+    color: green;
+}
+#foto {
+    border-right: 5px dashed green;
+}
+
+.parrafo {
+    background-color: aquamarine;
+    color: black;
+    height: 100px;
+    padding: 30px;
+    border: 10px solid black;
+
+}
