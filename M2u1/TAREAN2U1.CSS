@@ -1,6 +1,7 @@
 body {
     width: 100%;
-    background: linear-gradient(to bottom, rgba(180,227,145,1) 0%,rgba(97,196,25,1) 50%,rgba(180,227,145,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: linear-gradient(to bottom, rgba(180, 227, 145, 1) 0%, rgba(97, 196, 25, 1) 50%, rgba(180, 227, 145, 1) 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 
 }
 
@@ -10,6 +11,7 @@ body {
     background-color: aquamarine;
     color: green;
 }
+
 #foto {
     border-right: 5px dashed green;
 }
@@ -21,7 +23,8 @@ body {
     border-radius: 5px;
     font-family: "Dancing Script", cursiva;
 }
-.div1{
+
+.div1 {
     background-color: aquamarine;
     color: black;
     height: 20%;
