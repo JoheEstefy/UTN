@@ -1,0 +1,19 @@
+.contenedor{
+	background-color: blue;
+	display: flex;
+	justify-content: flex-start;
+	/*justify-content: flex-end; las acomoda al final*/
+	/*justify-content: center; las acomoda en el medio*/
+	/* justify-content: space-between;  las acomoda por separado*/
+	/* justify-content: space-around; separa el doble */
+	/* justify-content: space-evenly; separacion mas pareja */
+}
+
+.item{
+	background-color: #ccc;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: 30px;
+    margin:10px;
+}

@@ -1,0 +1,15 @@
+.contenedor{
+	background-color: blue;
+	display: inline-flex;
+	 flex-wrap: nowrap;   
+	/*flex-wrap: wrap; con desbordamiento*/ 
+	/* flex-wrap: wrap-reverse;desde abajo hacia arriba*/ 
+}
+
+.item{
+	background-color: #ccc;
+	width: 300px;
+	height: 100px;
+	margin: 10px;
+	font-size: 30px;
+}

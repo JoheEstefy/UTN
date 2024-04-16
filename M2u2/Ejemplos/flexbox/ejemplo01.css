@@ -1,0 +1,13 @@
+.contenedor{
+	background-color: blue;
+	 /*display: inline-flex;*/   /*flex: caja como para acomodar mucho contenido, el inline: se acorta la caja */
+	display: flex; /*el flex habilita la acomodacion*/
+}
+
+.item{
+	background-color: #ccc;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	font-size: 30px;
+}
