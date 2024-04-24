@@ -44,32 +44,37 @@ aside {
 }
 
 @media (max-width: 800px) {
+
    div {
 	display:grid;
 
    }
 
-	h1 {
-		background-color: violet;
-		}
-
+	
 	nav {
 		background-color: #CC3910;
 	     display: column;
+		 width: 100%;
 	
 	}
 
 	section {
 		background-color: greenyellow;
 		border: 1px solid black;
-		
+		width: 100%;
+		margin: 0%;
 		
 	}
 
-	aside {
-		background-color: maroon;
-		display: contents;
+aside h2{
+		background-color:violet;
+		width: 100%;
 		
 	}
+
+ aside {
+	background-color: violet;
+	width: 100%;
+ }
 
 }
