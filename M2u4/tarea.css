@@ -1,0 +1,16 @@
+body {
+    overflow-x: hidden;  /*para que no aparezca el scrool de abajo y si no quiero que aparezca el del costado solo reemplazo la x por la y*/
+}
+
+#huno {
+    position: relative;
+    left: 35%;
+}
+
+#carouselExample, img {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left:20%;
+    
+}
